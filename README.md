@@ -20,11 +20,11 @@ Script Shell que analisa um arquivo de log do Nginx e exibe:
 ## Como executar
 Para executar o código, abra um terminal (cmd, PowerShell por exemplo) e execute:
 ```bash
-chmod +x ./analises.sh
+chmod +x ./ShellScript/analises.sh
 
 e então:
 
-./analises.sh
+./ShellScript/analises.sh
 ```
 
 ## Estrutura do projeto
