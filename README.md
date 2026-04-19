@@ -18,10 +18,13 @@ Script Shell que analisa um arquivo de log do Nginx e exibe:
 - Comandos: `awk`, `sort`, `uniq`, `head`, `grep`
 
 ## Como executar
-
+Para executar o código, abra um terminal (cmd, PowerShell por exemplo) e execute:
 ```bash
-chmod +x ShellScript/analises.sh
-./ShellScript/analises.sh
+chmod +x ./analises.sh
+
+e então:
+
+./analises.sh
 ```
 
 ## Estrutura do projeto
