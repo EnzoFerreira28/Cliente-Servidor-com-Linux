@@ -21,7 +21,7 @@ Server-analyses-through-cli/
 │   |    └── analises.sh
 |   ├── logs/
 ├── ServerPerformanceStats/
-│   ├── Content
+│   ├── Content/
 │   └── ShellScript/
 │       └── StatusServidor.sh
 └── README.md
