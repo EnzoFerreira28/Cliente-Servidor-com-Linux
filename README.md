@@ -19,7 +19,7 @@ Server-analyses-through-cli/
 ├── NginxLogAnalyser/   
 │   ├── ShellScript/
 │   |    └── analises.sh
-|   ├── logs/
+|   └── logs/
 ├── ServerPerformanceStats/
 │   ├── Content/
 │   └── ShellScript/
